@@ -1,0 +1,27 @@
+# Diretórios de build
+/bin/
+/build/
+
+# Arquivos binários
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos de cache
+*.log
+*.tmp
+*.out
+
+# Diretórios de cache do Go
+/go.sum
+/go.mod
+/go.work
+/go.work.sum
+
+# Arquivos de configuração locais
+.env
+.idea/
+.vscode/
+*.swp
+.DS_Store
